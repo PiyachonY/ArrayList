@@ -1,0 +1,15 @@
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\Arraylist.csproj.AssemblyReference.cache
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\MainWindow.g.cs
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\App.g.cs
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\Arraylist_MarkupCompile.cache
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\Arraylist_MarkupCompile.lref
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\bin\Debug\Arraylist.exe.config
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\bin\Debug\Arraylist.exe
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\bin\Debug\Arraylist.pdb
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\MainWindow.baml
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\Arraylist.g.resources
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\Arraylist.Properties.Resources.resources
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\Arraylist.csproj.GenerateResource.cache
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\Arraylist.csproj.CoreCompileInputs.cache
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\Arraylist.exe
+C:\Users\MyDocument\source\repos\Arraylist\Arraylist\obj\Debug\Arraylist.pdb
